@@ -1,1 +1,1 @@
-If you see something, say something.
+See something, say something.
